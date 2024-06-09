@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "324322700743",
+    "project_id": "zamankisitsizapp2",
+    "storage_bucket": "zamankisitsizapp2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324322700743:android:865867b3afc0251b477de2",
+        "android_client_info": {
+          "package_name": "com.murat_altun.AwesomeProject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEbei1rmDvuPwzKsNsSEwJJCFTa87tNY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
