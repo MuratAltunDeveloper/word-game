@@ -1,2 +1,3 @@
-[PDF Dosyasını Görüntüle](https://github.com/KULLANICI_ADI/DEPO_ADI/blob/main/yourfile.pdf)
+[PDF Dosyasını Görüntüle](https://drive.google.com/file/d/1eNAydTamD_xoG0SWCb6v9fPVZuduAF2l/view?usp=drive_link)
+
 
