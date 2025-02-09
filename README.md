@@ -1,1 +1,2 @@
-[Uploading Mobil. Oyun Programlama (1).pdf…]()
+[PDF Dosyasını Görüntüle](https://github.com/KULLANICI_ADI/DEPO_ADI/blob/main/yourfile.pdf)
+
